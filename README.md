@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data analyst projects**
 
-- 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/m-prakash](https://eportfolio.mygreatlearning.com/m-prakash)
+- 👨‍💻 All of my Mini projects are available at [https://eportfolio.mygreatlearning.com/m-prakash](https://eportfolio.mygreatlearning.com/m-prakash)
 
 - 💬 Ask me about **Python, SQL**
 
