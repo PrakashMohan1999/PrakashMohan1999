@@ -1,4 +1,4 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Prakash Mohan</h1>
 <h3 align="center">A highly skilled, competent, and diligent individual is seeking an opportunity to establish a career as a Data Analyst or Data Scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://tophinhanh.com/wp-content/uploads/2021/12/hinh-lofi-tam-trang-tuyet-dep.gif">
