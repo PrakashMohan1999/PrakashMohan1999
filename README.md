@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp2757834.gif)
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA)
 <h1 align="center">Hi 👋, I'm Prakash Mohan</h1>
 <h3 align="center">A highly skilled, competent, and diligent individual is seeking an opportunity to establish a career as a Data Analyst or Data Scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://tophinhanh.com/wp-content/uploads/2021/12/hinh-lofi-tam-trang-tuyet-dep.gif">
